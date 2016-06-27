@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '204669943:AAFaXSvZtL_tUfBX-gX3-dhA995o4BpzqNI', --token
+	bot_api_key = '231209142:AAHzyvmhVszlE7djl40WZ6l-xX7za18jSZ4', --token
 	bot_api_key = '',
 	google_api_key = '',
 	google_cse_key = '',
@@ -15,8 +15,8 @@ return {
 	lang = 'en',
 	-- If you change this, make sure you also modify launch-tg.sh.
 	cli_port = 4567,
-	admin = 102490691,
-	admin_name = 'John Smith',
+	admin = 225949898,
+	admin_name = 'Omid',
 	log_chat = nil,
 	about_text = [[
 
